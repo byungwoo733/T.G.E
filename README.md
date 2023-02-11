@@ -7,6 +7,6 @@ Support OS: Windows / Linux (Supporting Goal)
 
 Test Target Device: Raspberry Pi 2 or Higher
 
-Tizen Studio (Tizen SDK)
+Tizen Studio (Tizen SDK) / Visual Studio(Tizen SDK Extension) / Visual Studio Code
 
-Launching Market: itch.io / GAME DEVMARKET
+Launching Market: itch.io 
