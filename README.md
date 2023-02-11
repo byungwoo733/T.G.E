@@ -9,4 +9,4 @@ Test Target Device: Raspberry Pi 2 or Higher
 
 Tizen Studio (Tizen SDK) / Visual Studio(Tizen SDK Extension) / Visual Studio Code
 
-Launching Market: itch.io / Smart TV App (Tizen)
+Launching Market: itch.io / Smart TV App (Tizen) / Raspberry Independent Game Platform (Later)
