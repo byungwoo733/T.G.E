@@ -1,7 +1,7 @@
 # T.G.E
-T.G.E Custom Game Engine (Tizen OS Based SDL2 or SDL3 higher (OpenGL ES / Vulkan))
+T.G.E Custom Game Engine (Front-end: UI: Web UI (HTML5) / C#(.Net) / Tizen OS Based SDL2 or SDL3 higher (OpenGL ES / Vulkan) Back-end: Engine: C / C++)
 
-Programming Language: C, HTML5, C++ (Supporting Goal)
+Programming Language: C / C++, HTML5 (Supporting Goal)
 
 Support OS: Windows / Linux (Supporting Goal)
 
