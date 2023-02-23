@@ -1,7 +1,7 @@
 # T.G.E
-T.G.E Custom Game Engine (Front-end: UI: Web UI (HTML5) / C#(.Net) Xamarin.forms or WinUI / Tizen OS Based SDL2 (Support SDL 2.08 Version in Tizen) or SDL3 higher (OpenGL ES / Vulkan) Back-end: Engine: C / C++)
+T.G.E Custom Game Engine (Engine Framework: focus Tizen Studio with SDL2(SDL 2.08 version in Tizen) include OpenGL es & Vulkan
 
-Programming Language: C / C++, HTML5 (Supporting Goal)
+Programming Language: C / C++ (SDL2 include OpenGL es & Vulkan), HTML5 (Supporting Goal)
 
 Support OS: Windows / Linux (Supporting Goal)
 
