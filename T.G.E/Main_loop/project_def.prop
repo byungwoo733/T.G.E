@@ -1,0 +1,11 @@
+APPNAME = tge_main_loop
+
+type = sharedLib
+profile = iot-headed-6.0
+
+USER_SRCS = src/tge_main_loop.c
+USER_DEFS =
+USER_INC_DIRS = inc
+USER_OBJS =
+USER_LIBS =
+USER_EDCS =
