@@ -1,7 +1,7 @@
 # T.G.E
 T.G.E Custom Game Engine (Engine Framework: focus Tizen Studio (EFL) with SDL2(SDL 2.08 version in Tizen) include OpenGL es & Vulkan
 
-Programming Language: C / C++ (SDL2 include OpenGL es & Vulkan), HTML5 (Supporting Goal)
+Programming Language: C / C++ (SDL2 + EFL Libraries include OpenGL es & Vulkan), HTML5 (Supporting Goal)
 
 Support OS: Windows / Linux (Supporting Goal)
 
