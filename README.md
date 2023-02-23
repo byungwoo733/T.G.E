@@ -11,6 +11,11 @@ Tizen Studio (Tizen SDK) / Visual Studio(Tizen SDK Extension) / Visual Studio Co
 
 Launching Market: itch.io / Smart TV App (Tizen) / Raspberry Independent Game Platform (Later)
 
+---------------------------------
+
+(Development thinking) for Extension Custom (Test)
+
+porting for Other Graphics API as processing(java(WebGL)) & p5.js (javascript (WebGL)), libxd & piksel (c++ (WebAssembly))
 
 ============================
 
