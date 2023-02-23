@@ -1,5 +1,5 @@
 # T.G.E
-T.G.E Custom Game Engine (Engine Framework: focus Tizen Studio with SDL2(SDL 2.08 version in Tizen) include OpenGL es & Vulkan
+T.G.E Custom Game Engine (Engine Framework: focus Tizen Studio (EFL) with SDL2(SDL 2.08 version in Tizen) include OpenGL es & Vulkan
 
 Programming Language: C / C++ (SDL2 include OpenGL es & Vulkan), HTML5 (Supporting Goal)
 
@@ -7,7 +7,8 @@ Support OS: Windows / Linux (Supporting Goal)
 
 Test Target Device: Raspberry Pi 2 or Higher
 
-Tizen Studio (Tizen SDK) / Visual Studio(Tizen SDK Extension) / Visual Studio Code
+[Engine or Application Development]
+Tizen Studio (Tizen SDK) for Engine / Visual Studio(Tizen SDK Extension) for Tizen.Net / Visual Studio Code
 
 Launching Market: itch.io / Smart TV App (Tizen) / Raspberry Independent Game Platform (Later)
 
