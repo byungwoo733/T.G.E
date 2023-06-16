@@ -18,6 +18,8 @@ Launching Market: itch.io / Smart TV App (Tizen) / Raspberry Independent Game Pl
 
 porting for Other Graphics API as processing(java(WebGL)) & p5.js (javascript (WebGL)), libxd & piksel (c++ (WebAssembly))
 
+Tizen T.G.E Widgets GUI Tool like wxWidgets
+
 ============================
 
 [SDL Graphics in Tizen / SDL Graphics with OpenGL® ES / SDL Graphics with Vulkan®]
